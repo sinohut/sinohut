@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Japanese
 - 📫 reach me:
 	- 📧 jay.w.li@qq.com
-	- 🌐 (Coming Soon)
+	- 🌐 www.sinohut.com
 
 ![01](https://user-images.githubusercontent.com/49137281/144226329-c35d8ab2-e6cf-4e1f-bbd9-eb2feb915f9b.gif)
 ![01](https://user-images.githubusercontent.com/49137281/144226360-6524fa01-562a-4165-a4cd-24bfc0d3938b.gif)
